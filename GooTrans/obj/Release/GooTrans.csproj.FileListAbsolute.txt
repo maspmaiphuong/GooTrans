@@ -1,0 +1,16 @@
+E:\Working Studio\Coding Process\GooTrans\bin\Release\GooTrans.exe.config
+E:\Working Studio\Coding Process\GooTrans\bin\Release\GooTrans.exe
+E:\Working Studio\Coding Process\GooTrans\bin\Release\GooTrans.pdb
+E:\Working Studio\Coding Process\GooTrans\bin\Release\DarrenLee.Translator.dll
+E:\Working Studio\Coding Process\GooTrans\bin\Release\Newtonsoft.Json.dll
+E:\Working Studio\Coding Process\GooTrans\bin\Release\Newtonsoft.Json.xml
+E:\Working Studio\Coding Process\GooTrans\obj\Release\GooTrans.csprojAssemblyReference.cache
+E:\Working Studio\Coding Process\GooTrans\obj\Release\Interop.WMPLib.dll
+E:\Working Studio\Coding Process\GooTrans\obj\Release\GooTrans.csproj.ResolveComReference.cache
+E:\Working Studio\Coding Process\GooTrans\obj\Release\GooTrans.GooGoo.resources
+E:\Working Studio\Coding Process\GooTrans\obj\Release\GooTrans.Properties.Resources.resources
+E:\Working Studio\Coding Process\GooTrans\obj\Release\GooTrans.csproj.GenerateResource.cache
+E:\Working Studio\Coding Process\GooTrans\obj\Release\GooTrans.csproj.CoreCompileInputs.cache
+E:\Working Studio\Coding Process\GooTrans\obj\Release\GooTrans.csproj.CopyComplete
+E:\Working Studio\Coding Process\GooTrans\obj\Release\GooTrans.exe
+E:\Working Studio\Coding Process\GooTrans\obj\Release\GooTrans.pdb

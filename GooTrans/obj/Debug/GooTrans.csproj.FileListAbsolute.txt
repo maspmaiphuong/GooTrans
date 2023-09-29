@@ -1,0 +1,34 @@
+E:\Working Studio\Coding Process\GooTrans\bin\Debug\GooTrans.exe.config
+E:\Working Studio\Coding Process\GooTrans\bin\Debug\GooTrans.exe
+E:\Working Studio\Coding Process\GooTrans\bin\Debug\GooTrans.pdb
+E:\Working Studio\Coding Process\GooTrans\obj\Debug\GooTrans.csprojAssemblyReference.cache
+E:\Working Studio\Coding Process\GooTrans\obj\Debug\GooTrans.GooGoo.resources
+E:\Working Studio\Coding Process\GooTrans\obj\Debug\GooTrans.Properties.Resources.resources
+E:\Working Studio\Coding Process\GooTrans\obj\Debug\GooTrans.csproj.GenerateResource.cache
+E:\Working Studio\Coding Process\GooTrans\obj\Debug\GooTrans.csproj.CoreCompileInputs.cache
+E:\Working Studio\Coding Process\GooTrans\obj\Debug\GooTrans.exe
+E:\Working Studio\Coding Process\GooTrans\obj\Debug\GooTrans.pdb
+E:\Working Studio\Coding Process\GooTrans\bin\Debug\DarrenLee.Translator.dll
+E:\Working Studio\Coding Process\GooTrans\obj\Debug\GooTrans.csproj.CopyComplete
+E:\Working Studio\Coding Process\GooTrans\bin\Debug\Newtonsoft.Json.dll
+E:\Working Studio\Coding Process\GooTrans\bin\Debug\Newtonsoft.Json.xml
+E:\Working Studio\Coding Process\GooTrans\obj\Debug\Interop.WMPLib.dll
+E:\Working Studio\Coding Process\GooTrans\obj\Debug\GooTrans.csproj.ResolveComReference.cache
+E:\Study Projects\1920\IT\002_Number_Translator\GooTrans\bin\Debug\GooTrans.exe.config
+E:\Study Projects\1920\IT\002_Number_Translator\GooTrans\bin\Debug\GooTrans.exe
+E:\Study Projects\1920\IT\002_Number_Translator\GooTrans\bin\Debug\GooTrans.pdb
+E:\Study Projects\1920\IT\002_Number_Translator\GooTrans\bin\Debug\DarrenLee.Translator.dll
+E:\Study Projects\1920\IT\002_Number_Translator\GooTrans\bin\Debug\Newtonsoft.Json.dll
+E:\Study Projects\1920\IT\002_Number_Translator\GooTrans\bin\Debug\Newtonsoft.Json.xml
+E:\Study Projects\1920\IT\002_Number_Translator\GooTrans\obj\Debug\GooTrans.csproj.AssemblyReference.cache
+E:\Study Projects\1920\IT\002_Number_Translator\GooTrans\obj\Debug\Interop.WMPLib.dll
+E:\Study Projects\1920\IT\002_Number_Translator\GooTrans\obj\Debug\GooTrans.csproj.ResolveComReference.cache
+E:\Study Projects\1920\IT\002_Number_Translator\GooTrans\obj\Debug\GooTrans.GooGoo.resources
+E:\Study Projects\1920\IT\002_Number_Translator\GooTrans\obj\Debug\GooTrans.Properties.Resources.resources
+E:\Study Projects\1920\IT\002_Number_Translator\GooTrans\obj\Debug\GooTrans.csproj.GenerateResource.cache
+E:\Study Projects\1920\IT\002_Number_Translator\GooTrans\obj\Debug\GooTrans.csproj.CoreCompileInputs.cache
+E:\Study Projects\1920\IT\002_Number_Translator\GooTrans\obj\Debug\GooTrans.csproj.CopyComplete
+E:\Study Projects\1920\IT\002_Number_Translator\GooTrans\obj\Debug\GooTrans.exe
+E:\Study Projects\1920\IT\002_Number_Translator\GooTrans\obj\Debug\GooTrans.pdb
+G:\Study Projects\1920\IT\002_Number_Translator\GooTrans\obj\Debug\GooTrans.exe
+G:\Study Projects\1920\IT\002_Number_Translator\GooTrans\obj\Debug\GooTrans.pdb
